@@ -1,0 +1,8 @@
+<%= variable %>                             JS Output
+<% console.log("Hello world") %>            JS Execute
+<%- <h1> Hello </h1> %>                     Render HTML
+<%% %%>                                     Show <% %>
+<%# This is a comment%>                     Stop Execution
+<%- include ("header.ejs") %>               Insert another EJS file
+kjo me include eshte me shume per headerin dhe footerin e 
+nje website pjes qe nuk ndryshojn
